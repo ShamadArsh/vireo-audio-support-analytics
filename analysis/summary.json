@@ -1,0 +1,20 @@
+{
+  "tickets": 11750,
+  "completed": 11183,
+  "csat_responses": 4947,
+  "overall_csat": 3.325854052961391,
+  "sla_breaches": 1014,
+  "sla_breach_rate": 0.09067334346776357,
+  "sla_credit_cost": 354900,
+  "replacements": 1797,
+  "replacement_cost": 3236490,
+  "q2_completed": 1995,
+  "q2_sla_breaches": 195,
+  "q2_sla_rate": 0.09774436090225563,
+  "q2_sla_cost": 68250,
+  "q2_chat_watch_tickets": 188,
+  "q2_chat_watch_replacement_rate": 0.24468085106382978,
+  "q2_chat_frontline_baseline_rate": 0.1532258064516129,
+  "q2_replacement_opportunity": 31191.33941093969,
+  "pilot_agents": ["A3004", "A3005", "A3007", "A3006"]
+}
